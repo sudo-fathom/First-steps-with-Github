@@ -1,11 +1,3 @@
-#Ask the user which direction to convert: C to F, or F to C.
-# 2. Ask for the temperature. 
-# 3. Convert it and print the result to 2 decimal places.
-#4. If the direction is not recognised, print an error message. 
-#5. If the user types something that is not a number, print an error and exit. 
-#Formulas F = C * 9.0 / 5.0 + 32 C = (F - 32) * 5.0 / 9.0
-
-
 import time
 
 def convert_temperature(Fahrenheit, Celcius):
